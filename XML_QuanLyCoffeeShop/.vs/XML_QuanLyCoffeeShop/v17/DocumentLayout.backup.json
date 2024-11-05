@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\124\\124CNX01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\XML_QuanLyCoffeeShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F490A3-988D-4E94-AE70-279A684F0C97}|XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop.csproj|d:\\124\\124cnx01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\xml_quanlycoffeeshop\\xml_quanlycoffeeshop\\ui\\formquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F490A3-988D-4E94-AE70-279A684F0C97}|XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop.csproj|solutionrelative:xml_quanlycoffeeshop\\ui\\formquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F490A3-988D-4E94-AE70-279A684F0C97}|XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop.csproj|d:\\124\\124cnx01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\xml_quanlycoffeeshop\\xml_quanlycoffeeshop\\ui\\formquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5F490A3-988D-4E94-AE70-279A684F0C97}|XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop.csproj|solutionrelative:xml_quanlycoffeeshop\\ui\\formquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F490A3-988D-4E94-AE70-279A684F0C97}|XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop.csproj|d:\\124\\124cnx01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\xml_quanlycoffeeshop\\xml_quanlycoffeeshop\\ui\\formquanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F490A3-988D-4E94-AE70-279A684F0C97}|XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop.csproj|solutionrelative:xml_quanlycoffeeshop\\ui\\formquanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F490A3-988D-4E94-AE70-279A684F0C97}|XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop.csproj|d:\\124\\124cnx01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\xml_quanlycoffeeshop\\xml_quanlycoffeeshop\\ui\\formquanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5F490A3-988D-4E94-AE70-279A684F0C97}|XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop.csproj|solutionrelative:xml_quanlycoffeeshop\\ui\\formquanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F490A3-988D-4E94-AE70-279A684F0C97}|XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop.csproj|d:\\124\\124cnx01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\xml_quanlycoffeeshop\\xml_quanlycoffeeshop\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F490A3-988D-4E94-AE70-279A684F0C97}|XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop.csproj|solutionrelative:xml_quanlycoffeeshop\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F490A3-988D-4E94-AE70-279A684F0C97}|XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop.csproj|d:\\124\\124cnx01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\xml_quanlycoffeeshop\\xml_quanlycoffeeshop\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5F490A3-988D-4E94-AE70-279A684F0C97}|XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop.csproj|solutionrelative:xml_quanlycoffeeshop\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F490A3-988D-4E94-AE70-279A684F0C97}|XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop.csproj|d:\\124\\124cnx01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\xml_quanlycoffeeshop\\xml_quanlycoffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F490A3-988D-4E94-AE70-279A684F0C97}|XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop.csproj|solutionrelative:xml_quanlycoffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F490A3-988D-4E94-AE70-279A684F0C97}|XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop.csproj|d:\\124\\124cnx01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\xml_quanlycoffeeshop\\xml_quanlycoffeeshop\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E5F490A3-988D-4E94-AE70-279A684F0C97}|XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop.csproj|solutionrelative:xml_quanlycoffeeshop\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormQuanLyNhanVien.cs",
+              "DocumentMoniker": "D:\\124\\124CNX01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop\\UI\\FormQuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "XML_QuanLyCoffeeShop\\UI\\FormQuanLyNhanVien.cs",
+              "ToolTip": "D:\\124\\124CNX01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop\\UI\\FormQuanLyNhanVien.cs",
+              "RelativeToolTip": "XML_QuanLyCoffeeShop\\UI\\FormQuanLyNhanVien.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAIAwwFUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:27:55.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormQuanLyNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\124\\124CNX01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop\\UI\\FormQuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "XML_QuanLyCoffeeShop\\UI\\FormQuanLyNhanVien.cs",
+              "ToolTip": "D:\\124\\124CNX01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop\\UI\\FormQuanLyNhanVien.cs [Design]",
+              "RelativeToolTip": "XML_QuanLyCoffeeShop\\UI\\FormQuanLyNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:24:12.288Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormQuanLyKhachHang.cs",
+              "DocumentMoniker": "D:\\124\\124CNX01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop\\UI\\FormQuanLyKhachHang.cs",
+              "RelativeDocumentMoniker": "XML_QuanLyCoffeeShop\\UI\\FormQuanLyKhachHang.cs",
+              "ToolTip": "D:\\124\\124CNX01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop\\UI\\FormQuanLyKhachHang.cs",
+              "RelativeToolTip": "XML_QuanLyCoffeeShop\\UI\\FormQuanLyKhachHang.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAD4vywAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:04:59.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\124\\124CNX01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "XML_QuanLyCoffeeShop\\UI\\Form1.cs",
+              "ToolTip": "D:\\124\\124CNX01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop\\UI\\Form1.cs [Design]",
+              "RelativeToolTip": "XML_QuanLyCoffeeShop\\UI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:03:04.577Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormQuanLyKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\124\\124CNX01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop\\UI\\FormQuanLyKhachHang.cs",
+              "RelativeDocumentMoniker": "XML_QuanLyCoffeeShop\\UI\\FormQuanLyKhachHang.cs",
+              "ToolTip": "D:\\124\\124CNX01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop\\UI\\FormQuanLyKhachHang.cs [Design]",
+              "RelativeToolTip": "XML_QuanLyCoffeeShop\\UI\\FormQuanLyKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:04:11.527Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\124\\124CNX01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "XML_QuanLyCoffeeShop\\UI\\Form1.cs",
+              "ToolTip": "D:\\124\\124CNX01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop\\UI\\Form1.cs",
+              "RelativeToolTip": "XML_QuanLyCoffeeShop\\UI\\Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAApwCgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:13:02.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\124\\124CNX01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop\\App.config",
+              "RelativeDocumentMoniker": "XML_QuanLyCoffeeShop\\App.config",
+              "ToolTip": "D:\\124\\124CNX01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop\\App.config",
+              "RelativeToolTip": "XML_QuanLyCoffeeShop\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-05T13:04:41.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\124\\124CNX01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop\\Program.cs",
+              "RelativeDocumentMoniker": "XML_QuanLyCoffeeShop\\Program.cs",
+              "ToolTip": "D:\\124\\124CNX01\\b\u00E0i t\u1EADp nh\u00F3m\\m\u1EABu\\XML_QuanLyCoffeeShop\\XML_QuanLyCoffeeShop\\Program.cs",
+              "RelativeToolTip": "XML_QuanLyCoffeeShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:13:52.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+D:\Đại học Sư phạm Kỹ thuật\XML\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\bin\Debug\XML_QuanLyCoffeeShop.exe.config
+D:\Đại học Sư phạm Kỹ thuật\XML\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\bin\Debug\XML_QuanLyCoffeeShop.exe
+D:\Đại học Sư phạm Kỹ thuật\XML\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\bin\Debug\XML_QuanLyCoffeeShop.pdb
+D:\Đại học Sư phạm Kỹ thuật\XML\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.csproj.AssemblyReference.cache
+D:\Đại học Sư phạm Kỹ thuật\XML\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.Properties.Resources.resources
+D:\Đại học Sư phạm Kỹ thuật\XML\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.Form1.resources
+D:\Đại học Sư phạm Kỹ thuật\XML\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.csproj.GenerateResource.cache
+D:\Đại học Sư phạm Kỹ thuật\XML\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.csproj.CoreCompileInputs.cache
+D:\Đại học Sư phạm Kỹ thuật\XML\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.exe
+D:\Đại học Sư phạm Kỹ thuật\XML\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.pdb
+D:\124\124CNX01\bài tập nhóm\mẫu\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\bin\Debug\XML_QuanLyCoffeeShop.exe.config
+D:\124\124CNX01\bài tập nhóm\mẫu\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\bin\Debug\XML_QuanLyCoffeeShop.exe
+D:\124\124CNX01\bài tập nhóm\mẫu\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\bin\Debug\XML_QuanLyCoffeeShop.pdb
+D:\124\124CNX01\bài tập nhóm\mẫu\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.csproj.AssemblyReference.cache
+D:\124\124CNX01\bài tập nhóm\mẫu\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.Properties.Resources.resources
+D:\124\124CNX01\bài tập nhóm\mẫu\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.Form1.resources
+D:\124\124CNX01\bài tập nhóm\mẫu\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.csproj.GenerateResource.cache
+D:\124\124CNX01\bài tập nhóm\mẫu\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.csproj.CoreCompileInputs.cache
+D:\124\124CNX01\bài tập nhóm\mẫu\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.exe
+D:\124\124CNX01\bài tập nhóm\mẫu\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.pdb
+D:\124\124CNX01\bài tập nhóm\mẫu\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.UI.FormQuanLyKhachHang.resources
+D:\124\124CNX01\bài tập nhóm\mẫu\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.UI.FormQuanLyNhanVien.resources
