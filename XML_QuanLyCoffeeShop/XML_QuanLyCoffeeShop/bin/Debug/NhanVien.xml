@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="NhanVien" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="NhanVien">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="IDNhanVien" type="xs:string" minOccurs="0" />
+                <xs:element name="HoTen" type="xs:string" minOccurs="0" />
+                <xs:element name="GioiTinh" type="xs:string" minOccurs="0" />
+                <xs:element name="NgaySinh" type="xs:string" minOccurs="0" />
+                <xs:element name="SoNha" type="xs:string" minOccurs="0" />
+                <xs:element name="TenDuong" type="xs:string" minOccurs="0" />
+                <xs:element name="QuanHuyen" type="xs:string" minOccurs="0" />
+                <xs:element name="TinhThanhPho" type="xs:string" minOccurs="0" />
+                <xs:element name="CCCD" type="xs:string" minOccurs="0" />
+                <xs:element name="Email" type="xs:string" minOccurs="0" />
+                <xs:element name="SDT" type="xs:string" minOccurs="0" />
+                <xs:element name="NgayBatDauLamViec" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <NhanVien>
+    <IDNhanVien>5</IDNhanVien>
+    <HoTen>Anh12345</HoTen>
+    <GioiTinh>Nữ</GioiTinh>
+    <NgaySinh>05-11-2023</NgaySinh>
+    <SoNha>13</SoNha>
+    <TenDuong>TY</TenDuong>
+    <QuanHuyen>HC</QuanHuyen>
+    <TinhThanhPho>DN</TinhThanhPho>
+    <CCCD>0452635</CCCD>
+    <Email>anh123@gmail.com</Email>
+    <SDT>0986336452</SDT>
+    <NgayBatDauLamViec>05-11-2023</NgayBatDauLamViec>
+  </NhanVien>
+</NewDataSet>

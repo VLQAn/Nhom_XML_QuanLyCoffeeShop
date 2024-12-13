@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="KhachHang" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="KhachHang">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="IDKhachHang" type="xs:string" minOccurs="0" />
+                <xs:element name="HoTen" type="xs:string" minOccurs="0" />
+                <xs:element name="NgaySinh" type="xs:string" minOccurs="0" />
+                <xs:element name="GioiTinh" type="xs:string" minOccurs="0" />
+                <xs:element name="CCCD" type="xs:int" minOccurs="0" />
+                <xs:element name="SDT" type="xs:string" minOccurs="0" />
+                <xs:element name="DiaChi" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <KhachHang>
+    <IDKhachHang>12</IDKhachHang>
+    <HoTen>Nguyễn Ngọc Tú Anh</HoTen>
+    <NgaySinh>17-10-2024</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <CCCD>0485632254</CCCD>
+    <SDT>098665452</SDT>
+    <DiaChi>48 Cao Thắng</DiaChi>
+  </KhachHang>
+  <KhachHang>
+    <IDKhachHang>13</IDKhachHang>
+    <HoTen>Nguyễn Ngọc Phương Lan</HoTen>
+    <NgaySinh>17-10-2024</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <CCCD>485632231</CCCD>
+    <SDT>098645521</SDT>
+    <DiaChi>48 Cao Thắng1</DiaChi>
+  </KhachHang>
+</NewDataSet>

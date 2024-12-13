@@ -33,12 +33,18 @@
             this.panel_app_name = new System.Windows.Forms.Panel();
             this.label13 = new System.Windows.Forms.Label();
             this.panel_viewBar = new System.Windows.Forms.Panel();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.pb_logo = new System.Windows.Forms.PictureBox();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
@@ -54,27 +60,21 @@
             this.pictureBox9 = new System.Windows.Forms.PictureBox();
             this.pictureBox8 = new System.Windows.Forms.PictureBox();
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
-            this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.pb_logo = new System.Windows.Forms.PictureBox();
+            this.btn_thêm = new System.Windows.Forms.PictureBox();
             this.panel_titile.SuspendLayout();
             this.panel_app_name.SuspendLayout();
             this.panel_viewBar.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pb_logo)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btn_thêm)).BeginInit();
             this.SuspendLayout();
             // 
             // panel_titile
@@ -136,6 +136,56 @@
             this.panel_viewBar.Name = "panel_viewBar";
             this.panel_viewBar.Size = new System.Drawing.Size(240, 720);
             this.panel_viewBar.TabIndex = 2;
+            // 
+            // pictureBox5
+            // 
+            this.pictureBox5.Image = global::XML_QuanLyCoffeeShop.Properties.Resources.ic_login;
+            this.pictureBox5.Location = new System.Drawing.Point(12, 606);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(50, 50);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox5.TabIndex = 14;
+            this.pictureBox5.TabStop = false;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = global::XML_QuanLyCoffeeShop.Properties.Resources.ic_revenue;
+            this.pictureBox4.Location = new System.Drawing.Point(12, 515);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(50, 50);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox4.TabIndex = 13;
+            this.pictureBox4.TabStop = false;
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = global::XML_QuanLyCoffeeShop.Properties.Resources.ic_coffe_cup;
+            this.pictureBox3.Location = new System.Drawing.Point(12, 429);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(50, 50);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 12;
+            this.pictureBox3.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::XML_QuanLyCoffeeShop.Properties.Resources.ic_customer;
+            this.pictureBox2.Location = new System.Drawing.Point(12, 348);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(50, 50);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 11;
+            this.pictureBox2.TabStop = false;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::XML_QuanLyCoffeeShop.Properties.Resources.ic_account;
+            this.pictureBox1.Location = new System.Drawing.Point(12, 266);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(50, 50);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 10;
+            this.pictureBox1.TabStop = false;
             // 
             // label6
             // 
@@ -205,6 +255,16 @@
             this.label1.TabIndex = 4;
             this.label1.Text = "XML Coffe Shop";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // pb_logo
+            // 
+            this.pb_logo.Image = global::XML_QuanLyCoffeeShop.Properties.Resources.Coffee_Logo;
+            this.pb_logo.Location = new System.Drawing.Point(25, 20);
+            this.pb_logo.Name = "pb_logo";
+            this.pb_logo.Size = new System.Drawing.Size(190, 160);
+            this.pb_logo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pb_logo.TabIndex = 3;
+            this.pb_logo.TabStop = false;
             // 
             // label7
             // 
@@ -344,75 +404,16 @@
             this.pictureBox7.TabIndex = 4;
             this.pictureBox7.TabStop = false;
             // 
-            // pictureBox6
+            // btn_thêm
             // 
-            this.pictureBox6.Image = global::XML_QuanLyCoffeeShop.Properties.Resources.ic_add;
-            this.pictureBox6.Location = new System.Drawing.Point(254, 186);
-            this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(50, 50);
-            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox6.TabIndex = 3;
-            this.pictureBox6.TabStop = false;
-            // 
-            // pictureBox5
-            // 
-            this.pictureBox5.Image = global::XML_QuanLyCoffeeShop.Properties.Resources.ic_login;
-            this.pictureBox5.Location = new System.Drawing.Point(12, 606);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(50, 50);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox5.TabIndex = 14;
-            this.pictureBox5.TabStop = false;
-            // 
-            // pictureBox4
-            // 
-            this.pictureBox4.Image = global::XML_QuanLyCoffeeShop.Properties.Resources.ic_revenue;
-            this.pictureBox4.Location = new System.Drawing.Point(12, 515);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(50, 50);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox4.TabIndex = 13;
-            this.pictureBox4.TabStop = false;
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.Image = global::XML_QuanLyCoffeeShop.Properties.Resources.ic_coffe_cup;
-            this.pictureBox3.Location = new System.Drawing.Point(12, 429);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(50, 50);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 12;
-            this.pictureBox3.TabStop = false;
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.Image = global::XML_QuanLyCoffeeShop.Properties.Resources.ic_customer;
-            this.pictureBox2.Location = new System.Drawing.Point(12, 348);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(50, 50);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 11;
-            this.pictureBox2.TabStop = false;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::XML_QuanLyCoffeeShop.Properties.Resources.ic_account;
-            this.pictureBox1.Location = new System.Drawing.Point(12, 266);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(50, 50);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 10;
-            this.pictureBox1.TabStop = false;
-            // 
-            // pb_logo
-            // 
-            this.pb_logo.Image = global::XML_QuanLyCoffeeShop.Properties.Resources.Coffee_Logo;
-            this.pb_logo.Location = new System.Drawing.Point(25, 20);
-            this.pb_logo.Name = "pb_logo";
-            this.pb_logo.Size = new System.Drawing.Size(190, 160);
-            this.pb_logo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pb_logo.TabIndex = 3;
-            this.pb_logo.TabStop = false;
+            this.btn_thêm.Image = global::XML_QuanLyCoffeeShop.Properties.Resources.ic_add;
+            this.btn_thêm.Location = new System.Drawing.Point(254, 186);
+            this.btn_thêm.Name = "btn_thêm";
+            this.btn_thêm.Size = new System.Drawing.Size(50, 50);
+            this.btn_thêm.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.btn_thêm.TabIndex = 3;
+            this.btn_thêm.TabStop = false;
+            this.btn_thêm.Click += new System.EventHandler(this.pictureBox6_Click);
             // 
             // Form1
             // 
@@ -434,7 +435,7 @@
             this.Controls.Add(this.label7);
             this.Controls.Add(this.pictureBox8);
             this.Controls.Add(this.pictureBox7);
-            this.Controls.Add(this.pictureBox6);
+            this.Controls.Add(this.btn_thêm);
             this.Controls.Add(this.panel_viewBar);
             this.Controls.Add(this.panel_app_name);
             this.Controls.Add(this.panel_titile);
@@ -446,17 +447,17 @@
             this.panel_app_name.PerformLayout();
             this.panel_viewBar.ResumeLayout(false);
             this.panel_viewBar.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pb_logo)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btn_thêm)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -479,7 +480,7 @@
         private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.PictureBox pictureBox4;
         private System.Windows.Forms.PictureBox pictureBox3;
-        private System.Windows.Forms.PictureBox pictureBox6;
+        private System.Windows.Forms.PictureBox btn_thêm;
         private System.Windows.Forms.PictureBox pictureBox7;
         private System.Windows.Forms.PictureBox pictureBox8;
         private System.Windows.Forms.Label label7;

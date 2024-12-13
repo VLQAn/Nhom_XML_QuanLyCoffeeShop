@@ -20,3 +20,16 @@ D:\124\124CNX01\bài tập nhóm\mẫu\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop
 D:\124\124CNX01\bài tập nhóm\mẫu\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.pdb
 D:\124\124CNX01\bài tập nhóm\mẫu\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.UI.FormQuanLyKhachHang.resources
 D:\124\124CNX01\bài tập nhóm\mẫu\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.UI.FormQuanLyNhanVien.resources
+D:\124\124CNX01\bài tập nhóm\Nhom_XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.csproj.AssemblyReference.cache
+D:\124\124CNX01\bài tập nhóm\Nhom_XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.Properties.Resources.resources
+D:\124\124CNX01\bài tập nhóm\Nhom_XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.Form1.resources
+D:\124\124CNX01\bài tập nhóm\Nhom_XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.UI.FormQuanLyKhachHang.resources
+D:\124\124CNX01\bài tập nhóm\Nhom_XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.UI.FormQuanLyNhanVien.resources
+D:\124\124CNX01\bài tập nhóm\Nhom_XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.csproj.GenerateResource.cache
+D:\124\124CNX01\bài tập nhóm\Nhom_XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.csproj.CoreCompileInputs.cache
+D:\124\124CNX01\bài tập nhóm\Nhom_XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.exe
+D:\124\124CNX01\bài tập nhóm\Nhom_XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.pdb
+D:\124\124CNX01\bài tập nhóm\Nhom_XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\bin\Debug\XML_QuanLyCoffeeShop.exe.config
+D:\124\124CNX01\bài tập nhóm\Nhom_XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\bin\Debug\XML_QuanLyCoffeeShop.exe
+D:\124\124CNX01\bài tập nhóm\Nhom_XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\bin\Debug\XML_QuanLyCoffeeShop.pdb
+D:\124\124CNX01\bài tập nhóm\Nhom_XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\XML_QuanLyCoffeeShop\obj\Debug\XML_QuanLyCoffeeShop.UI.TrangChu.resources
